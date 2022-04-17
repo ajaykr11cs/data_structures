@@ -10,6 +10,7 @@ Custom Data Structure Implementation in Java
 8) Digraph
 9) Priority Queue
 10) Undirected Graph
+11) Multi Level Doubly Linked List
 
 Sorting Alorithms implemented :
 1) BubbleSort
@@ -22,3 +23,10 @@ Problems :
 1) Two Sum
 2) RainWater Trap
 3) Water Container
+4) Almost Palindrome
+5) Kth Larget Element
+6) Maximum Sub Array Sum
+7) Move Zeroes
+8) Reverse Single Linked List
+9) Flatten Multi Level Doubly Linked List
+10) Merge Sorted Arrays
